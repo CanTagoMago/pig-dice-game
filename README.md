@@ -1,4 +1,4 @@
 # pig-dice-game
-pig dice game in JS (idea by Jonas Schmedtmann)
+simple pig dice game in JS (idea by Jonas Schmedtmann)
 
-https://practical-poincare-96dce7.netlify.app/
+https://dice-pig-game-js.netlify.app/
